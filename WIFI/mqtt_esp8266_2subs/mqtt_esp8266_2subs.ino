@@ -7,8 +7,8 @@
 
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID       "MAUI"
-#define WLAN_PASS       "@dm!nm3a1x8@"
+#define WLAN_SSID       "TESTE"
+#define WLAN_PASS       "P@ssw0rd"
 
 /************************* Adafruit.io Setup *********************************/
 
