@@ -7,8 +7,8 @@
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "MAUI";
-char pass[] = "@dm!nm3a1x8@";
+char ssid[] = "TESTE";
+char pass[] = "P@ssw0rd";
 
 // Cria uma serial nas portas 2 (RX) e 3 (TX)
 SoftwareSerial minhaSerial(2 , 3);
