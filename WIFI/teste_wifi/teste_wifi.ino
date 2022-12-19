@@ -3,8 +3,8 @@
 #include "Adafruit_MQTT_Client.h"
 
 /************************* WIFI Setup *********************************/
-#define ssid        "MAUI"
-#define password    "@dm!nm3a1x8@"
+#define ssid        "TESTE"
+#define password    "P@ssw0rd"
 
 /************************* Adafruit.io Setup *********************************/
 #define AIO_SERVER      "io.adafruit.com"
